@@ -9,5 +9,5 @@
 
 ## 📫 Контакты
 - Email: vvarra.work@gmail.com
-- LinkedIn: [Ivan Danilin](linkedin.com/in/vvarra/)
-- Telegram: [@VVaRRa0](t.me/vvarra0)
+- LinkedIn: linkedin.com/in/vvarra/
+- Telegram: @VVaRRa0
